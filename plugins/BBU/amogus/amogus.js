@@ -1,6 +1,6 @@
 
 const discord = require ("discord.js");
-const message = require("../events/message");
+const prefix = require('../config/config.json')
 
 var amogusImage = [
     "https://cdn.discordapp.com/attachments/797816795796078612/833643168708165672/image0.jpg",
@@ -50,8 +50,5 @@ module.exports.details = {
     name:'amogus',
     author:'ATD#9262',
     description: 'getitoutofmyhead',
-    usage:`-[command]`,
-    enabled: true,
-    botPermissions: [ "SEND_MESSAGES", "EMBEDLINKS" ],
-    nsfw: false,
+    usage:`${prefix.prefix}FILENAME`,
 }
