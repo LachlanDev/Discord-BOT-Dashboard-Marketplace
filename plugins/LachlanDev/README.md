@@ -11,6 +11,7 @@ List of plugins created by LachlanDev#8014, these also include the default plugi
 * **User Info** - Sends information about a given user.
 * **Server Info** - Sends information about the current server. 
 * **Stats** - Statistics of the BOT.
+* **Ping** - Ping / Pong!
 
 ### 💰 Fun
 * **Coin Flip** - Flip a coin (heads / tails).
