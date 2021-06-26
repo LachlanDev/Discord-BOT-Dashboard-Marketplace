@@ -1,4 +1,3 @@
-
 const discord = require ("discord.js");
 const prefix = require('../config/config.json')
 
@@ -50,5 +49,5 @@ module.exports.details = {
     name:'amogus',
     author:'ATD#9262',
     description: 'getitoutofmyhead',
-    usage:`${prefix.prefix}FILENAME`,
+    usage:`${prefix.prefix}amogus`,
 }
