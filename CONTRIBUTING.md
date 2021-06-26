@@ -54,6 +54,8 @@ Inside the newly created folder you must follow this structure, if ignored your 
 
 Once completed it should look something like this, if you have further questions or need help feel free to ask me! 
 
+Please ensure you mention packages your plugin requires in the plugins README.md
+
 <img width="300" src="./content/result.png" alt="fork this repository" />
 
 Head back to GitHub Desktop and click on the "Commit" button in bottom left, you will need to input a summary.
