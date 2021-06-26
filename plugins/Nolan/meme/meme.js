@@ -3,7 +3,7 @@ const prefix = require('../config/config.json')
 const got = require('got')
 module.exports.run = (client, message, args) =>{
    
-    const embed = new Discord.MessageEmbed();
+    const embed = new discord.MessageEmbed();
     got('https://www.reddit.com/r/memes/random/.json').then(response => {
         let content = JSON.parse(response.body);
         let permalink = content[0].data.children[0].data.permalink;
