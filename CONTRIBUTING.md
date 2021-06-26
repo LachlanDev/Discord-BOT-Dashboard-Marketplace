@@ -25,3 +25,54 @@ A pop up window will open. Click on "Open GitHubDesktop.exe".
 After you click on "Open GitHubDesktop.exe" the contents will be downloaded to your computer.
 
 <img width="700" src="./content/desktop.png" alt="fork this repository" />
+
+## Create a branch
+Now create a branch by clicking on the "Current branch" icon at the top and then click on "New branch":
+
+<img width="700" src="./content/branch.png" alt="fork this repository" />
+
+Name your branch. For example, "LachlanDev"
+
+Click on ``Create branch``
+
+## Make necessary changes and commit those changes
+Click on the `Repository` icon at the top and then click on "Open in Visual Studio Code"
+
+Once opened you want to expand the "Plugins" Folder and create a new folder with your name example, "LachlanDev"
+
+<img width="300" src="./content/dev.png" alt="fork this repository" />
+
+Inside the newly created folder you must follow this structure, if ignored your pull request will be ignored. Also check out my folder as an <a href="https://github.com/LachlanDev/Discord-BOT-Dashboard-Marketplace/tree/main/plugins/LachlanDev">example</a>.
+
+```bash
+│   LachlanDev - Name of folder (Developer)
+│   ├── README.md - Your README file, used to induce yourself or list your plugins
+│   └── PluginFolder - Each plugin will be in a seperate folder
+│       ├── README.md - Plugin README with documentation etc..
+│       └── Plugin Source Code
+```
+
+Once completed it should look something like this, if you have further questions or need help feel free to ask me! 
+
+<img width="300" src="./content/result.png" alt="fork this repository" />
+
+Head back to GitHub Desktop and click on the "Commit" button in bottom left, you will need to input a summary.
+
+<img width="300" src="./content/commit.png" alt="fork this repository" />
+
+Finally Click the ``Publish`` button on the top right.
+
+## Submit your changes for review
+If you go to your repository on github, you'll see ``Compare & pull request button``. click on that button.
+
+You will be redirected to a new page, add a title and leave a comment explaing the commands you have added.
+
+Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+
+## What's next?
+Congrats! You just completed the standard fork -> clone -> edit -> PR workflow that you'll encounter often as a contributor!
+
+You **must** follow the folder structure or your pull request will not be accepted, need assistance join the <a href="https://discord.com/invite/w7B5nKB">Discord Server</a> or message me on Discord LachlanDev#8014
+
+
+
