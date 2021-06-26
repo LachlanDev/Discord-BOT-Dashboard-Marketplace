@@ -5,6 +5,6 @@
 Head over to the <a href="https://dbd.lachlan-dev.com/docs/plugins/" target="_blank">Documentation</a> page which will explain how you can create your own plugins!
 
 ## Importing a plugin
-Clone this repository and login to your Discord BOT Dashboard, then head over to the Plugins Tab and click the ``import`` button. Finnaly find the command that you want to import!
+Clone this repository and login to your Discord BOT Dashboard, then head over to the Plugins Tab and click the ``import`` button. Finnaly find the command that you want to import and select it!
 
  © All rights reserved. LachlanDev 2019-2021
