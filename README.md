@@ -7,4 +7,8 @@ Head over to the <a href="https://dbd.lachlan-dev.com/docs/plugins/" target="_bl
 ## Importing a plugin
 Clone this repository and login to your Discord BOT Dashboard, then head over to the Plugins Tab and click the ``import`` button. Finnaly find the command that you want to import and select it!
 
+## Adding a plugin to the repository
+Contribute to this repository by opening a <a href="">PR</a> to this repository. Refer to the <a href="">CONTRIBUTING</a> file for direction.
+
+</br>
  © All rights reserved. LachlanDev 2019-2021
