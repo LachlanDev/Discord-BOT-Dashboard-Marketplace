@@ -1,6 +1,6 @@
 # Server Info
 Sends information about the current server!
-
+    
 ## Requirements
 ``npm i dateformat``
 
