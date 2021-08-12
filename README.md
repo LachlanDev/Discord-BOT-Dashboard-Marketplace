@@ -1,5 +1,5 @@
 # <a href="https://github.com/LachlanDev/Discord-BOT-Dashboard-V2" target="_blank">Discord BOT Dashboard</a> Marketplace
- A public repo where you can find plugins for Discord BOT Dashboard V2!
+ A public repo where you can find plugins and themes for Discord BOT Dashboard V2!
 
 ## Creating a plugin / theme
 Head over to the <a href="https://dbd.lachlan-dev.com/docs/" target="_blank">Documentation</a> page which will explain how you can create your own plugins / themes!
