@@ -1,5 +1,7 @@
 # Contributor's Guide
-Please ensure you have GitHub Desktop installed and have logged into your GitHub account!
+Please ensure you have GitHub Desktop installed and have logged into your GitHub account! 
+
+The following steps explain how to add a __plugin__ to the repo but themes follow the same structure!
 
 ## Fork this repository
 Fork this repo by clicking on the fork button on the top right of this page. This will create of copy of this repository in your account.
