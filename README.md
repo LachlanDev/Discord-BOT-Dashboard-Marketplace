@@ -1,9 +1,6 @@
 # <a href="https://github.com/LachlanDev/Discord-BOT-Dashboard-V2" target="_blank">Discord BOT Dashboard</a> Marketplace
  A public repo where you can find plugins and themes for Discord BOT Dashboard V2!
 
-## Creating a plugin / theme
-Head over to the <a href="https://dbd.lachlan-dev.com/docs/" target="_blank">Documentation</a> page which will explain how you can create your own plugins / themes!
-
 ## Importing a plugin / theme
 ### Plugins:
 Clone this repository and login to your Discord BOT Dashboard, then head over to the Plugins Tab and click the ``import`` button. Finally find the command that you want to import and select it!
